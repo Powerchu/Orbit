@@ -1,19 +1,26 @@
 # Orbit
 ----------------------------------------------------------------------------------------------------------------
- Game Name	: Orbit                        	 Team Name	: Floating Point Studios    
+ Game Name	: Orbit                          
+ Team Name	: Floating Point Studios    
    
 ----------------------------------------------------------------------------------------------------------------
- Class		: GAM100F17-A                  	 Contact	: t.shannon@digipen.edu         
-						  		: keith.goh@digipen.edu        
-								: m.chu@digipen.edu 
-								: suresh.chandra@digipen.edu
+ Class		: GAM100F17-A
+ 
+ Contact	: 
+ 	
+        - t.shannon@digipen.edu         
+ 	- keith.goh@digipen.edu        
+	- m.chu@digipen.edu 
+	- suresh.chandra@digipen.edu
 
 ----------------------------------------------------------------------------------------------------------------
-Controls	: Arrow keys to navigate options
-		      Enter key to select option
-		      [I] key to Open/Close Inventory (In SHIP OVERVIEW)
-		      [M] key to Open/Close Maintenance (In SHIP OVERVIEW)
-		      [S] key to SCRAP modules (In INVENTORY)
+Controls	: 
+	
+        - Arrow keys to navigate options
+	- Enter key to select option
+	- [I] key to Open/Close Inventory (In SHIP OVERVIEW)
+	- [M] key to Open/Close Maintenance (In SHIP OVERVIEW)
+	- [S] key to SCRAP modules (In INVENTORY)
 
 ----------------------------------------------------------------------------------------------------------------
 Cheats		: 
