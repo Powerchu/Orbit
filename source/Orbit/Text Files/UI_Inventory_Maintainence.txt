@@ -1,0 +1,36 @@
+qxxxxxxxxxxxxxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxxxxxxxxxxxxxxxe
+wbbbbbbbbbbbbbbbbbbbbbbbbbbbbw    #1          w    #2          w   #3            wbbbbbbbbbbbbbbbbbbbbbbbbbbbbw
+wqxxxxxxxxxxxxxxxxxxxxxxxxrxxfxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxew
+ww      #4                w                                                                                  ww
+waxxxxxxxxxxxxxxxxxxxxxxxxd                                                                                  ww
+ww                        w                                     #6                                           ww
+ww    !1      $1          w              #8                                                                  ww
+ww                        w                                          %4                                      ww
+ww                        w         !7                                                         !9            ww
+ww  !2        $2          w                &7                                                                ww
+ww                        w                                                                                  ww
+ww                        w                                                                                  ww
+ww  !3        $3          w                                                                                  ww
+ww                        w                                                                                  ww
+ww                        w                                     #7                                           ww
+ww   !4       $4          w              #9                                                                  ww
+ww                        w                                          %3                                      ww
+ww                        w         !8                                                         !0            ww
+ww    !5      $5          w                &8                                                                ww
+ww                        w                                                                                  ww
+ww                        w                                                                                  ww
+ww    !6      $6          w                                                                                  ww
+ww                        w                                                             &9                   ww
+waxxxxxxxxxxxxxxxxxxxxxxxxsxxxxxxxxxxxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxxxxxxxe                                  ww
+ww      #5                w &5         &3            w &6    &4           w                                  ww
+waxxxxxxxxxxxxxxxxxxxxxxxxsxxxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdw
+ww &2                     w &1                                                                               ww
+ww                        w                                                                                  ww
+ww                        w                                                                                  ww
+ww                        w                                                                                  ww
+ww                        w                                                                                  ww
+ww                        w @1                                                                               ww
+ww                        w                                                                                  ww
+wzxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxcw
+w [ARROW KEYS] - NAVIGATION           [ENTER] - CONFIRM SELECTION                                             w
+zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc

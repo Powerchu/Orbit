@@ -1,0 +1,36 @@
+qxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxrxxxxxxxxxrxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe
+wbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbw EXPLORE wbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbw
+wqxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxrxxxxxxxxxxxxxxew
+ww  SELECT        w                                                                           w              ww
+ww  DESTINATION   w@9                                                                         w              ww
+waxxxxxxxxxxxxxxxxd                                                                           w              ww
+ww                w                                                                           w              ww
+ww  @1            w                                                                           w              ww
+ww                w                                                                           w              ww
+ww  @2            w                                                                           w              ww
+ww                w                                                                           w              ww
+ww  @3            w                                                                           w              ww
+ww                w                                                                           w              ww
+ww  @4            w                                                                           w              ww
+ww                w                                                                           w              ww
+ww  @5            w                                                                           w              ww
+ww                w                                                                           w              ww
+ww  @6            w                                                                           w              ww
+ww                w                                                                           w              ww
+ww                w                                                                           w              ww
+ww                w                                                                           w              ww
+waxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxdw
+ww @7                                                                                                        ww
+ww @8                                                                                                        ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww #1                                                                                                        ww
+ww #2                                                                                                        ww
+ww                                                                                                           ww
+wzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxcw
+w [UP]/[DOWN] ^1                      [ENTER] ^2                                                              w
+zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc

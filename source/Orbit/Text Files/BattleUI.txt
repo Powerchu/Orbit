@@ -1,0 +1,36 @@
+qxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxrxxxxxxxxrxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe
+wbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbw BATTLE wbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbw
+wqxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxew
+ww       @5                                         @7                       @6                              ww
+ww      |%1                       |      @9                                 |%2                       |      ww
+ww       %5                                                                  %6                              ww
+ww       %3                                                                  %4                              ww
+ww                                                                                                           ww
+ww         &1 &3                           &2                              &4                                ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                       &6 &5                                                                               ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+ww                                                                                                           ww
+waxxxxxxxxxxxxxxxxxxxxxxxxxxe                                                  qxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdw
+ww     ACTION MENU          w                                                  w              LOG            ww
+waxxxxxxxxxxxxxxxxxxxxxxxxxxd                                                  axxxxxxxxxxxxxxxxxxxxxxxxxxxxxdw
+ww #1                       w  &%                                              w @1                          ww
+ww #2                       axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxd                             ww
+ww #3                       w  @2                                              w &9                          ww
+ww #4                       w  @3                                              w                             ww
+ww #5                       w                                                  w                             ww
+ww #6                       w  @4                                              w                             ww
+ww #7                       w  @#                                              w                             ww
+ww #8                       w                                                  w                             ww
+ww #9                       w                                                  w                             ww
+wzxxxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxcw
+w ^1                                   ^2                         ^3                                          w
+zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc
